@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "registryxyz001ssssaasa"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
